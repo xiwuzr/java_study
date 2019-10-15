@@ -1,0 +1,10 @@
+
+
+可以完成增删查改的功能
+
+建表：
+{
+id int
+name var
+pwd var
+}
