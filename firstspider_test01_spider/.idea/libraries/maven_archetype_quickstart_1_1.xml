@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="maven-archetype-quickstart-1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/maven-archetype-quickstart-1.1.jar/maven-archetype-quickstart-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/maven-archetype-quickstart-1.1.jar" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/maven-archetype-quickstart-1.1.jar" recursive="false" type="SOURCES" />
+  </library>
+</component>
